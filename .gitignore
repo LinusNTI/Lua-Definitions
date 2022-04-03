@@ -35,3 +35,6 @@
 
 LuaDefinePOC/Debug
 Debug
+
+LuaDefinePOC/Release
+Release
